@@ -1,132 +1,133 @@
+<!-- ========================= -->
+<!--         HEADER            -->
+<!-- ========================= -->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,11,20,24,30&text=RETHISH%20MUDALIAR&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&text=Rethish%20Mudaliar&fontAlign=50&fontAlignY=38&fontSize=60&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=🚀+Full+Stack+Developer;🤖+AI+%7C+Machine+Learning+Explorer;⚡+Building+Scalable+Web+Applications;💡+Turning+Ideas+Into+Reality"/>
+# 👋 Hey, I'm Rethish
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%7C+Machine+Learning+Learner;React+%7C+Node+%7C+MongoDB;Always+Building+Something+Awesome" />
 
 </div>
 
 ---
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello World!
+# 💫 About Me
 
-```text
-╔══════════════════════════════════════════════════════╗
-║               SYSTEM INITIALIZED                    ║
-╠══════════════════════════════════════════════════════╣
-║ 👤 Name      : Rethish Mudaliar                     ║
-║ 💻 Role      : Full Stack Developer                ║
-║ 🎓 Degree    : B.Tech Computer Engineering         ║
-║ 🤖 Learning  : AI • ML • Deep Learning            ║
-║ 🌍 Location  : India                              ║
-║ 🚀 Status    : Building Cool Stuff                ║
-╚══════════════════════════════════════════════════════╝
+<img align="right" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+```txt
+Name        : Rethish Mudaliar
+Education   : B.Tech Computer Engineering
+Role        : Full Stack Developer
+Learning    : AI • Machine Learning • Deep Learning
+Interests   : Web Apps • Automation • UI Design
+Location    : India
+
+Mission:
+Build products that improve millions of lives.
 ```
 
----
-
-## ⚡ Mission
-
-> **"Build products that improve millions of lives through technology."**
+<br>
 
 ---
 
-## 💻 Tech Stack
+# ⚡ Tech Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,java,c,git,github,vscode,firebase,linux,mysql&perline=8"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,java,c,git,github,vscode,firebase,figma,linux,mysql"/>
 
 </div>
 
 ---
 
-## 🧠 Current Status
+# 🚀 Currently Exploring
 
 ```javascript
-class Developer {
+const rethish = {
 
-  constructor() {
-    this.name = "Rethish";
-    this.role = "Full Stack Developer";
-    this.learning = [
-      "Machine Learning",
-      "Deep Learning",
-      "TensorFlow",
-      "PyTorch"
-    ];
-  }
+    code: [
+        "JavaScript",
+        "Python",
+        "Java",
+        "C"
+    ],
 
-  code() {
-    return "Eat → Code → Sleep → Repeat";
-  }
+    frontend: [
+        "React",
+        "HTML",
+        "CSS"
+    ],
+
+    backend: [
+        "Node",
+        "Express"
+    ],
+
+    database: [
+        "MongoDB",
+        "MySQL"
+    ],
+
+    learning: [
+        "Machine Learning",
+        "Deep Learning",
+        "TensorFlow",
+        "PyTorch"
+    ],
+
+    goal: "Build impactful AI Powered Products"
 }
-
-const me = new Developer();
-
-console.log(me.code());
 ```
 
 ---
 
-## 📊 GitHub Dashboard
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-| 🚀 Project | Description |
-|------------|-------------|
-| 🌐 Innovative Science | Educational platform with quizzes, leaderboards & assignments |
-| 🤖 AI Projects | Machine Learning experiments & intelligent apps |
-| ⚡ MERN Stack | Full-stack web applications |
-| 📱 Future SaaS | Products solving real-world problems |
-
----
-
-## 📈 Developer Progress
+# 🧠 Developer Mindset
 
 ```text
-Frontend        ████████████████████ 100%
+while(alive){
 
-Backend         ██████████████████░░ 90%
+    Learn();
 
-Database        █████████████████░░░ 85%
+    Build();
 
-Python          ███████████████████░ 95%
+    Break();
 
-Machine Learning███████████░░░░░░░░░ 60%
+    Fix();
 
-Problem Solving ██████████████████░░ 90%
+    Repeat();
+
+}
 ```
 
 ---
 
-## 🏆 Achievements
+# 📈 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=4"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+# 🔥 Contribution Graph
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
 
 <div align="center">
 
@@ -136,7 +137,28 @@ Problem Solving ██████████████████░░ 90%
 
 ---
 
-## 🌐 Connect With Me
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=4&margin-w=20&margin-h=20&no-frame=true"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🌐 Innovative Science | Educational platform with quizzes & leaderboard |
+| 🤖 AI Projects | Machine Learning Models |
+| ⚡ Full Stack Apps | MERN Stack Applications |
+| 🎯 Open Source | Future Contributions |
+
+---
+
+# 🌎 Connect With Me
 
 <div align="center">
 
@@ -144,7 +166,7 @@ Problem Solving ██████████████████░░ 90%
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/YOUR_LINK">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -156,7 +178,7 @@ Problem Solving ██████████████████░░ 90%
 
 ---
 
-## 💭 Quote
+# 💭 Random Dev Quote
 
 <div align="center">
 
@@ -166,14 +188,20 @@ Problem Solving ██████████████████░░ 90%
 
 ---
 
+# ☕ Visitor Counter
+
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Visitors&style=for-the-badge&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Visitors&color=00FFFF&style=for-the-badge"/>
 
-<br><br>
+</div>
 
-### ⚡ "Code. Learn. Build. Repeat."
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20,24,30"/>
+<div align="center">
+
+### ⭐ Thanks for visiting!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer"/>
 
 </div>
