@@ -237,3 +237,152 @@ System Design
 ## 💡 "Great software isn't just written—it is continuously improved."
 
 </div>
+
+<!-- ===================================================== -->
+<!--                 CODING PROFILES                       -->
+<!-- ===================================================== -->
+
+# 🌍 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/yourleetcode/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/yourhackerrank">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/yourcodechef">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="https://github.com/yourusername">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+# 📫 Contact Me
+
+<div align="center">
+
+| Platform | Link |
+|----------|------|
+| 📧 Email | yourmail@gmail.com |
+| 💼 LinkedIn | https://linkedin.com/in/yourlinkedin |
+| 🌐 Portfolio | https://yourportfolio.com |
+| 💻 GitHub | https://github.com/yourusername |
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Become an AI Engineer
+- ✅ Master Machine Learning
+- ✅ Learn Deep Learning
+- ✅ Build Production AI Projects
+- ✅ Contribute to Open Source
+- ✅ Crack Top Software Interviews
+- ✅ Solve 500+ LeetCode Problems
+- ✅ Deploy Scalable Applications
+
+---
+
+# 💡 Fun Facts
+
+- 💻 I enjoy turning ideas into real-world software.
+- 🤖 I'm passionate about AI, Machine Learning, and automation.
+- 🌱 Every project teaches me something new.
+- 🚀 I love building products that solve real problems.
+- 📚 Lifelong learner with a growth mindset.
+
+---
+
+# 💬 Developer Quote
+
+<div align="center">
+
+> **"First, solve the problem. Then, write the code."**  
+> — *John Johnson*
+
+</div>
+
+---
+
+# 📈 Profile Summary
+
+<div align="center">
+
+| Focus Area | Status |
+|------------|--------|
+| 🌐 Full Stack Development | ⭐⭐⭐⭐⭐ |
+| 🐍 Python | ⭐⭐⭐⭐☆ |
+| ⚛️ React | ⭐⭐⭐⭐☆ |
+| 🟢 Node.js | ⭐⭐⭐⭐☆ |
+| 🍃 MongoDB | ⭐⭐⭐⭐☆ |
+| 🤖 Machine Learning | ⭐⭐⭐☆☆ |
+| 🧠 Deep Learning | ⭐⭐☆☆☆ |
+| ☁️ Cloud | ⭐⭐⭐☆☆ |
+
+</div>
+
+---
+
+# 🎵 Daily Workflow
+
+```text
+☕ Coffee           ████████████░░░ 80%
+💻 Coding           ██████████████ 100%
+📚 Learning         ███████████░░░ 75%
+🐞 Debugging        ██████████░░░░ 70%
+🚀 Building         ████████████░░ 85%
+😴 Sleeping         ██████░░░░░░░░ 40%
+```
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+
+</div>
+
+> **Note:** For this snake animation to work on *your* profile, you'll need to set up a GitHub Action (or use the `Platane/snk` workflow). Simply changing the username in the image URL is **not enough**, because the SVG is generated in a repository.
+
+---
+
+# 📊 Visitor Counter
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+---
+
+# ❤️ Thanks for Visiting
+
+<div align="center">
+
+### ⭐ If you like my work, consider giving a star to my repositories!
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Thanks+for+visiting!;Happy+Coding!;Keep+Learning+%F0%9F%9A%80;See+you+again!"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=120&section=footer"/>
+
+</div>
